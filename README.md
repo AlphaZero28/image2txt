@@ -12,6 +12,7 @@ This project utilizes the `pytesseract` Python wrapper to extract text from imag
 Before you begin, ensure you have the following installed:
 - Python 3.7 or higher
 - pip (Python package installer)
+- tesseract (https://tesseract-ocr.github.io/tessdoc/Downloads.html)
 
 ## Installation
 
