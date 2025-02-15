@@ -8,18 +8,15 @@ This project utilizes the `pytesseract` Python wrapper to extract text from imag
 - **Text Saving**: Automatically save extracted text into a `.txt` file.
   
 ![sonar_tori](https://github.com/user-attachments/assets/ab1be215-a540-4297-b0c2-a22b6a0ed736)
+
 সোনার তরী।
 
 গগনে গরজে মেঘ, ঘন বরষা।
-
 কুলে একা বসে' আছি, নাহি ভরসা।
-
 রাশি রাশি ভারা ভারা
 ধান কাটা হ'ল সারা,
-
 ভরা নদী স্কুরধারা
 খর-পরশা।
-
 কাটিতে কাটিতে ধান এল বরষা।
 
 ## Prerequisites
