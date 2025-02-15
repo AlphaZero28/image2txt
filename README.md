@@ -1,1 +1,20 @@
-# img2txt
+# Image to Text Converter
+
+This project utilizes the `pytesseract` Python wrapper to extract text from images and save the extracted content into a text file. It serves as a practical tool for OCR (Optical Character Recognition) applications where you need to process images to retrieve textual information.
+
+## Features
+
+- **Image Processing**: Convert images into text using OCR.
+- **Text Saving**: Automatically save extracted text into a `.txt` file.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+- Python 3.7 or higher
+- pip (Python package installer)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://your-repository-url.git
